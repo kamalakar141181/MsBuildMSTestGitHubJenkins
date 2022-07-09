@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to custom calculator! - updated to validate auto build - dummy push");            
+            Console.WriteLine("Welcome to custom calculator! - updated to validate auto build - dummy push after 192.168.0.103 ip address added in github");            
         }
 
         public double Add(double num1, double num2)
