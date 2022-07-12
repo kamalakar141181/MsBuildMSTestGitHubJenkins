@@ -6,7 +6,8 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to custom calculator - fresh build.");            
+            Console.WriteLine("Welcome to custom calculator - fresh build.");
+            Console.ReadKey();
         }
 
         public double Add(double num1, double num2)
