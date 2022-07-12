@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to custom calculator - 192.168.0.103 ip address configured");            
+            Console.WriteLine("Welcome to custom calculator - ngrok configuration added.");            
         }
 
         public double Add(double num1, double num2)
