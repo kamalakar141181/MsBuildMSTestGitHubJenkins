@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to custom calculator.");
+            Console.WriteLine("Welcome to custom calculator!");
             Console.ReadKey();
         }
 
